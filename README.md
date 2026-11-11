@@ -4,6 +4,12 @@ A responsive security operations dashboard prototype customized by **Kaysen Acfa
 
 > **Demo project:** All organizations, alerts, assets, metrics, and security events are simulated. AI briefings are predefined examples, not live model output. No real security systems are connected.
 
+## Live demo and screenshot
+
+[Open the public live demo](https://sentinel-security-ops-kaysen.restedbike16.chatgpt.site/)
+
+![Sentinel security dashboard](assets/sentinel-dashboard.jpg)
+
 ## Features
 
 - Dark, responsive dashboard with security posture and threat activity visualizations
